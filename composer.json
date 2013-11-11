@@ -2,6 +2,7 @@
   "name": "jtlebi/roundcube-unity",
   "type": "roundcube-plugin",
   "license": "GPL-3.0+",
+  "version": "1.0",
   "repositories": [
   {
     "type": "composer",
